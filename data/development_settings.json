@@ -69,8 +69,8 @@
     },
 
     "root_site": {
-        "template":             "example",
-        "stylesheet":           "example",
+        "template":             "twentyeleven",
+        "stylesheet":           "twentyeleven",
         "current_theme":        "Twenty Eleven",
         "timezone_string":      "America/Chicago",
         "use_trackback":        1,

@@ -7,6 +7,8 @@
  *
  *****/
 
+define('WP_INSTALLING', true);
+
 require_once( 'cli-load.php' );
 
 /** Load WordPress Administration Upgrade API */
