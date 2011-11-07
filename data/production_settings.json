@@ -9,6 +9,8 @@
     "network_title":     "Example network",
     "base":              "/",
     "subdomain_install": false,
+    "upload_path":       "/media",
+    "upload_url_path":   "/media",
 
     "akismet": {
         "key": "foo"
