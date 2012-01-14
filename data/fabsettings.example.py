@@ -61,7 +61,6 @@ def production():
     env.db_root_pass = "PassWorD"
     env.db_host = 'db.wp.example.com'
     env.fix_perms = True
-    check_env()
 
 def staging():
     """
@@ -77,7 +76,6 @@ def staging():
     env.db_root_pass = "PassWorD"
     env.db_host = 'db.beta.wp.example.com'
     env.fix_perms = True
-    check_env()
 
 """
 Branches
