@@ -1,5 +1,5 @@
 {
-    'blogs': [
+    "blogs": [
         {
             "slug": "newblog",
             "name": "My fancy new blog",

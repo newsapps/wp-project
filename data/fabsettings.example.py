@@ -39,10 +39,7 @@ env.prefix = ""
 env.sudo = local
 env.run = local
 
-# Where should I get Wordpress??
-env.wp_tarball = "http://wordpress.org/latest.tar.gz"
-
-env.cache_servers = ["lb1"]
+env.cache_servers = ["lb1", "lb2", "lb3"]
 
 """
 Environments
@@ -98,3 +95,6 @@ def branch(branch_name):
     """
     env.gitbranch = branch_name
 
+"""
+Functions for this project
+"""
