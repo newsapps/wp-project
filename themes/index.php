@@ -1,3 +1,1 @@
-<?php
-// Silence is golden.
-?>
+wordpress/wp-content/themes/index.php
