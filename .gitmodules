@@ -8,4 +8,4 @@
     ignore = untracked
 [submodule "tools"]
 	path = tools
-	url = git@github.com:ryanmark/wp-project-tools.git
+	url = git@github.com:newsapps/wp-project-tools.git
